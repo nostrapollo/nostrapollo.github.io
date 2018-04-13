@@ -2,5 +2,5 @@
 
 For random links I want to post
 
-[Website here](nostrapollo.github.io)
+[Website here](https://nostrapollo.github.io)
 
