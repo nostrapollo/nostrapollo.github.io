@@ -1,6 +1,4 @@
-# Nostrapollo placeholder website
+# Nostrapollo dumpsite
 
-For random links I want to post
-
-[Website here](https://nostrapollo.github.io)
+[Dumpsite](https://nostrapollo.github.io)
 
